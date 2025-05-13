@@ -26,8 +26,6 @@ Gosto de explorar novas ideias, aprender com desafios e usar a tecnologia como f
   <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML" title="HTML"/>
   <img src="https://img.icons8.com/color/48/css3.png" alt="CSS" title="CSS"/>
   <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" title="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/microsoft-office-2019.png" alt="Microsoft Office" title="Microsoft Office"/>
-  <img src="https://img.icons8.com/ios-filled/48/000000/usa.png" alt="Inglês Avançado" title="Inglês Avançado"/>
 </div>
 
 ---

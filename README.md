@@ -13,11 +13,12 @@
 
 ## 💡 Sobre mim
 
-Sou um estudante curioso e dedicado, com interesse especial em desenvolvimento de software, resolução de problemas e inteligência artificial.  
+Sou um estudante curioso e dedicado, com interesse especial em **desenvolvimento de software**, **resolução de problemas** e **inteligência artificial**.  
 Gosto de explorar novas ideias, aprender com desafios e usar a tecnologia como ferramenta de impacto positivo.
-- 🎓 Estudante de Ciência da Computação na Universidade de Fortaleza (UNIFOR)
-- 🚀 Aprendizado constante e rápido
-- 💡 Busca constante por inovação e evolução técnica
+
+- 🎓 Estudante de Ciência da Computação na Universidade de Fortaleza (UNIFOR)  
+- 🚀 Aprendizado constante e rápido  
+- 💡 Busca contínua por inovação e evolução técnica  
 
 ---
 
@@ -36,18 +37,21 @@ Gosto de explorar novas ideias, aprender com desafios e usar a tecnologia como f
 ## 🚀 Interesses
 
 Atualmente em busca de oportunidades para aplicar e expandir meus conhecimentos em:
-- Desenvolvimento de software
-- Tecnologia educacional
-- Inovação com impacto social
+
+- Desenvolvimento de software  
+- Tecnologia educacional  
+- Inovação com impacto social  
 
 ---
 
 ## 🚧 Estudos Atuais
 
-- 📱 Formação Web Full Stack (Curso na plataforma Udemy em andamento)
-- 🧠 Melhorias de algoritmos e lógica de programação (Resolução de problemas diários na plataforma Beecrowd)
-- 🌐 Desenvolvimento de Aplicação Mobile
+- 📱 Formação Web Full Stack – Curso na plataforma **Udemy** *(em andamento)*  
+- 🧠 Prática de algoritmos e lógica de programação – Desafios diários na plataforma **Beecrowd**  
+- 🌐 Desenvolvimento de aplicações mobile *(estudos iniciais)*  
+
+---
 
 <p align="center">
-  "Feito é melhor do que perfeito!"
+  <i>"Feito é melhor do que perfeito!"</i>
 </p>

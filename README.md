@@ -15,9 +15,9 @@
 
 Sou um estudante curioso e dedicado, com interesse especial em desenvolvimento de software, resolução de problemas e inteligência artificial.  
 Gosto de explorar novas ideias, aprender com desafios e usar a tecnologia como ferramenta de impacto positivo.
-🎓 Estudante de Ciência da Computação na Universidade de Fortaleza (UNIFOR)
-🚀 Aprendizado constante e rápido
-💡 Busca constante por inovação e evolução técnica
+- 🎓 Estudante de Ciência da Computação na Universidade de Fortaleza (UNIFOR)
+- 🚀 Aprendizado constante e rápido
+- 💡 Busca constante por inovação e evolução técnica
 
 ---
 
@@ -44,9 +44,9 @@ Atualmente em busca de oportunidades para aplicar e expandir meus conhecimentos 
 
 ## 🚧 Estudos Atuais
 
-📱 Formação Web Full Stack (Curso na plataforma Udemy em andamento)
-🧠 Melhorias de algoritmos e lógica de programação (Resolução de problemas diários na plataforma Beecrowd)
-🌐 Desenvolvimento de Aplicação Mobile
+- 📱 Formação Web Full Stack (Curso na plataforma Udemy em andamento)
+- 🧠 Melhorias de algoritmos e lógica de programação (Resolução de problemas diários na plataforma Beecrowd)
+- 🌐 Desenvolvimento de Aplicação Mobile
 
 <p align="center">
   "Feito é melhor do que perfeito!"

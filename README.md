@@ -20,13 +20,14 @@ Acredito na tecnologia como ferramenta de transformação social, e estou sempre
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![English](https://img.shields.io/badge/English-Advanced-blue?style=for-the-badge)
+| Tecnologia            | Ícone                                                                 |
+|-----------------------|------------------------------------------------------------------------|
+| **Java**              | ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) |
+| **MySQL**             | ![MySQL](https://img.icons8.com/ios-filled/48/000000/mysql-logo.png)     |
+| **HTML / CSS / JS**   | ![Web](https://img.icons8.com/color/48/000000/html-5--v1.png)             |
+| **Microsoft Office**  | ![Office](https://img.icons8.com/color/48/000000/microsoft-office-2019.png) |
+| **Inglês (Avançado)** | 🇺🇸 🇬🇧                                                                 |
+
 
 </div>
 

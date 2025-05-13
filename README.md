@@ -15,6 +15,9 @@
 
 Sou um estudante curioso e dedicado, com interesse especial em desenvolvimento de software, resolução de problemas e inteligência artificial.  
 Gosto de explorar novas ideias, aprender com desafios e usar a tecnologia como ferramenta de impacto positivo.
+🎓 Estudante de Ciência da Computação na Universidade de Fortaleza (UNIFOR)
+🚀 Aprendizado constante e rápido
+💡 Busca constante por inovação e evolução técnica
 
 ---
 
@@ -26,45 +29,7 @@ Gosto de explorar novas ideias, aprender com desafios e usar a tecnologia como f
   <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML" title="HTML"/>
   <img src="https://img.icons8.com/color/48/css3.png" alt="CSS" title="CSS"/>
   <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" title="JavaScript"/>
-</div>
-
----
-
-## 🎓 Formação Acadêmica
-
-- **Ciência da Computação** – Universidade de Fortaleza (UNIFOR)  
-  `Jan/2024 – Dez/2028`
-
----
-
-## 🧠 Experiência Acadêmica
-
-- **Feira de Profissões UNIFOR** – Orientação a visitantes sobre o curso (Jun/2024)  
-- **Entrevista ao MEC** – Representando o curso de Ciência da Computação (Ago/2024)  
-- **Bootcamp Unifor Hub** – Desenvolvimento de solução em IA para atendimento ao cliente (Mar/2025)
-
----
-
-## 💼 Experiência Profissional
-
-- **Instrutor - Curso de Formação Profissional (UNIFOR)**  
-  `Mar/2025 – Mai/2025`  
-  Aulas de informática básica para jovens e adultos em situação de vulnerabilidade.
-
----
-
-## 📚 Cursos em Andamento
-
-- **Full-Stack Web Development Bootcamp** – Udemy (50h)  
-- **JavaScript** – Curso em Vídeo (40h)  
-- **MySQL** – YouTube (40h)
-
----
-
-## 🤝 Voluntariado e Liderança
-
-- Catequista de Crisma – Santuário e Igreja de Fátima  
-- Coordenação de equipes escolares – Colégio Nossa Senhora das Graças
+</div> 
 
 ---
 
@@ -77,6 +42,12 @@ Atualmente em busca de oportunidades para aplicar e expandir meus conhecimentos 
 
 ---
 
+## 🚧 Estudos Atuais
+
+📱 Formação Web Full Stack (Curso na plataforma Udemy em andamento)
+🧠 Melhorias de algoritmos e lógica de programação (Resolução de problemas diários na plataforma Beecrowd)
+🌐 Desenvolvimento de Aplicação Mobile
+
 <p align="center">
-  Feito com 💙 por Savas Neto
+  "Feito é melhor do que perfeito!"
 </p>

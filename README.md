@@ -13,7 +13,7 @@
 
 ## 💡 Sobre mim
 
-Sou um estudante curioso e dedicado, com interesse especial em **desenvolvimento de software**, **resolução de problemas** e **inteligência artificial**.  
+Sou um estudante curioso e dedicado, com interesse especial em **desenvolvimento de software** e **resolução de problemas**.  
 Gosto de explorar novas ideias, aprender com desafios e usar a tecnologia como ferramenta de impacto positivo.
 
 - 🎓 Estudante de Ciência da Computação na Universidade de Fortaleza (UNIFOR)  
@@ -49,6 +49,15 @@ Atualmente em busca de oportunidades para aplicar e expandir meus conhecimentos 
 - 📱 Formação Web Full Stack – Curso na plataforma **Udemy** *(em andamento)*  
 - 🧠 Prática de algoritmos e lógica de programação – Desafios diários na plataforma **Beecrowd**  
 - 🌐 Desenvolvimento de aplicações mobile *(estudos iniciais)*  
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=savasneto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savasneto&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 ---
 

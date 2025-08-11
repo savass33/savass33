@@ -31,7 +31,8 @@ Gosto de explorar novas ideias, aprender com desafios e usar a tecnologia como f
   <img src="https://img.icons8.com/color/48/css3.png" alt="CSS" title="CSS"/>
   <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" title="JavaScript"/>
   <img src="https://img.icons8.com/color/48/kotlin.png" alt="Kotlin" title="Kotlin"/>
-  <img scr="https://img.icons8.com/?size=100&id=58811&format=png&color=000000" />
+  <img scr="https://img.icons8.com/color/48/react_native.png alt="React Native" title="React Native" />
+  <link type="image/png" sizes="16x16" rel="icon" href=".../icons8-react native-ios7-16.png">
 
 </div> 
 

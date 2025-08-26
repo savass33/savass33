@@ -31,6 +31,8 @@ Gosto de explorar novas ideias, aprender com desafios e usar a tecnologia como f
   <img src="https://img.icons8.com/color/48/css3.png" alt="CSS" title="CSS"/>
   <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" title="JavaScript"/>
   <img src="https://img.icons8.com/color/48/kotlin.png" alt="Kotlin" title="Kotlin"/>
+  <img src="https://img.icons8.com/color/48/python.png" alt="Python" title="Python"/>
+
 
 </div> 
 

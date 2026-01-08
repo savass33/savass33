@@ -49,7 +49,7 @@ Atualmente em busca de oportunidades para aplicar e expandir meus conhecimentos 
 ---
 
 ## 🚧 Estudos Atuais
-- 🎓 Graduação em Ciência da Computação pela Universidade de Fortaleza - 4o semestre *(em andamento)*  
+- 🎓 Graduação em Ciência da Computação pela Universidade de Fortaleza - 5o semestre *(em andamento)*  
 - 🌐 Formação Web Full Stack – Curso na plataforma **Udemy** *(em andamento)*  
 - 🧠 Prática de algoritmos e lógica de programação – Desafios diários na plataforma **Beecrowd**  
 - 📱 Desenvolvimento de aplicações mobile *(estudos iniciais em React Native)*  

@@ -59,8 +59,8 @@ Atualmente em busca de oportunidades para aplicar e expandir meus conhecimentos 
 ## 📊 GitHub Stats
 
 <div align="center">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=savass33&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savass33&layout=compact&langs_count=8&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="![Savas GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=savass33&show_icons=true&theme=transparent)"/>
+  <img height="180em" src="[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=savass33&layout=donut-vertical)](https://github.com/Pranesh-2005/github-readme-stats)"/>
 </div>
 
 

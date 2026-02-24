@@ -14,7 +14,7 @@
 
 Sou um Engenheiro de Software em formação focado na interseção entre **Arquitetura de Sistemas, Interfaces de Alta Performance e Inteligência Artificial**. Meu objetivo não é apenas escrever código, mas desenhar soluções escaláveis que resolvem problemas reais de negócio.
 
-- 🚀 **Atualmente:** Estagiário Full Stack & IA na **Verboo**, desenvolvendo microsserviços e auxiliando no desenvolvimento Full Stack da plataforma [SaaS](https://verboo.ai) ).
+- 🚀 **Atualmente:** Estagiário Full Stack & IA na [**Verboo**](https://verboo.ai), desenvolvendo microsserviços e auxiliando no desenvolvimento Full Stack da plataforma SaaS.
 - 🧠 **Foco de atuação:** Orquestração de APIs concorrentes em **Go (Golang)**, desenvolvimento de interfaces modernas com **React/TypeScript** e otimização de pipelines de Machine Learning em **Python**.
 - ⚙️ **Infraestrutura:** Usuário avançado de **Linux (Ubuntu)**. Acredito que dominar o sistema operacional e a infraestrutura (Docker/Git) é o que separa codificadores de verdadeiros engenheiros.
 - 🎓 **Background:** Bacharelando em Ciência da Computação pela Universidade de Fortaleza (UNIFOR).

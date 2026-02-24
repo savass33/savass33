@@ -1,13 +1,10 @@
-<h1 align="center">Hi, I'm Savas Neto ⚡</h1>
+<h1 align="center">Oi, eu sou o Savas Neto ⚡</h1>
 
 <h3 align="center">Software Engineer | Full Stack | AI & MLOps</h3>
 
 <p align="center">
   <a href="https://br.linkedin.com/in/savasneto" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:savas.neto20@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
@@ -17,7 +14,7 @@
 
 Sou um Engenheiro de Software em formação focado na interseção entre **Arquitetura de Sistemas, Interfaces de Alta Performance e Inteligência Artificial**. Meu objetivo não é apenas escrever código, mas desenhar soluções escaláveis que resolvem problemas reais de negócio.
 
-- 🚀 **Atualmente:** Estagiário Full Stack & IA na **Verboo**, desenvolvendo microsserviços e sustentando painéis administrativos críticos (`verbeux-admin`).
+- 🚀 **Atualmente:** Estagiário Full Stack & IA na **Verboo**, desenvolvendo microsserviços e auxiliando no desenvolvimento Full Stack da plataforma [SaaS](https://verboo.ai) ).
 - 🧠 **Foco de atuação:** Orquestração de APIs concorrentes em **Go (Golang)**, desenvolvimento de interfaces modernas com **React/TypeScript** e otimização de pipelines de Machine Learning em **Python**.
 - ⚙️ **Infraestrutura:** Usuário avançado de **Linux (Ubuntu)**. Acredito que dominar o sistema operacional e a infraestrutura (Docker/Git) é o que separa codificadores de verdadeiros engenheiros.
 - 🎓 **Background:** Bacharelando em Ciência da Computação pela Universidade de Fortaleza (UNIFOR).

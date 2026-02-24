@@ -1,71 +1,74 @@
-<h1 align="center">👨‍💻 Savas Neto</h1>
+<h1 align="center">Hi, I'm Savas Neto ⚡</h1>
+
+<h3 align="center">Software Engineer | Full Stack | AI & MLOps</h3>
 
 <p align="center">
-  Estudante de Ciência da Computação na UNIFOR | Entusiasta de Tecnologia, Programação e Inovação
+  <a href="https://br.linkedin.com/in/savasneto" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:savas.neto20@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
-<p align="center">
-  📍 Fortaleza - CE • 📧 savas.neto20@gmail.com • 
-  <a href="https://br.linkedin.com/in/savasneto" target="_blank">LinkedIn</a>
+---
+
+## 👨‍💻 Sobre Mim (About Me)
+
+Sou um Engenheiro de Software em formação focado na interseção entre **Arquitetura de Sistemas, Interfaces de Alta Performance e Inteligência Artificial**. Meu objetivo não é apenas escrever código, mas desenhar soluções escaláveis que resolvem problemas reais de negócio.
+
+- 🚀 **Atualmente:** Estagiário Full Stack & IA na **Verboo**, desenvolvendo microsserviços e sustentando painéis administrativos críticos (`verbeux-admin`).
+- 🧠 **Foco de atuação:** Orquestração de APIs concorrentes em **Go (Golang)**, desenvolvimento de interfaces modernas com **React/TypeScript** e otimização de pipelines de Machine Learning em **Python**.
+- ⚙️ **Infraestrutura:** Usuário avançado de **Linux (Ubuntu)**. Acredito que dominar o sistema operacional e a infraestrutura (Docker/Git) é o que separa codificadores de verdadeiros engenheiros.
+- 🎓 **Background:** Bacharelando em Ciência da Computação pela Universidade de Fortaleza (UNIFOR).
+
+---
+
+## 🛠️ Tech Stack & Ferramentas
+
+### Backend & Inteligência Artificial
+<p align="left">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+</p>
+
+### Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite" />
+</p>
+
+### Infraestrutura, Bancos de Dados & Ferramentas
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
 
-## 💡 Sobre mim
-
-Sou um estudante curioso e dedicado, com interesse especial em **desenvolvimento de software** e **resolução de problemas**.  
-Gosto de explorar novas ideias, aprender com desafios e usar a tecnologia como ferramenta de impacto positivo.
-
-- 🎓 Estudante de Ciência da Computação na Universidade de Fortaleza (UNIFOR)  
-- 🚀 Aprendizado constante e rápido  
-- 💡 Busca contínua por inovação e evolução técnica  
-
----
-
-## 🛠️ Tecnologias e Ferramentas
+## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java"/>
-  <img src="https://img.icons8.com/ios-filled/48/000000/mysql-logo.png" alt="MySQL" title="MySQL"/>
-  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML" title="HTML"/>
-  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS" title="CSS"/>
-  <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" title="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/kotlin.png" alt="Kotlin" title="Kotlin"/>
-  <img src="https://img.icons8.com/color/48/python.png" alt="Python" title="Python"/>
-
-
-</div> 
-
----
-
-## 🚀 Interesses
-
-Atualmente em busca de oportunidades para aplicar e expandir meus conhecimentos em:
-
-- Desenvolvimento de software  
-- Tecnologia educacional  
-- Inovação com impacto social  
-
----
-
-## 🚧 Estudos Atuais
-- 🎓 Graduação em Ciência da Computação pela Universidade de Fortaleza - 5o semestre *(em andamento)*  
-- 🌐 Formação Web Full Stack – Curso na plataforma **Udemy** *(em andamento)*  
-- 🧠 Prática de algoritmos e lógica de programação – Desafios diários na plataforma **Beecrowd**  
-- 📱 Desenvolvimento de aplicações mobile *(estudos iniciais em React Native)*  
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-   <img height="180em" src="![Savas GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=savass33&show_icons=true&theme=transparent)"/>
-  <img height="180em" src="[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=savass33&layout=donut-vertical)](https://github.com/Pranesh-2005/github-readme-stats)"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=savass33&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do Savas" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savass33&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" height="190" />
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=savass33&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
 <p align="center">
-  <i>"Feito é melhor do que perfeito!"</i>
+  <i>"Construindo para escalar. Otimizando para impactar."</i>
 </p>

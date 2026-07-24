@@ -106,8 +106,7 @@ Desenvolvedor **Full Stack** e **RPA**, estudante de **AI Engineering**. Atuo na
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=savass33&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do Savas" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savass33&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais usadas" height="180" />
+  <img src="https://raw.githubusercontent.com/savass33/savass33/metrics/github-metrics.svg" alt="Métricas do GitHub" width="95%" />
 </div>
 
 <div align="center">
@@ -116,10 +115,6 @@ Desenvolvedor **Full Stack** e **RPA**, estudante de **AI Engineering**. Atuo na
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=savass33&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de contribuições" width="95%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=savass33&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Troféus" />
 </div>
 
 ---

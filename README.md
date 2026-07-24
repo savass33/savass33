@@ -106,7 +106,7 @@ Desenvolvedor **Full Stack** e **RPA**, estudante de **AI Engineering**. Atuo na
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/savass33/savass33/metrics/github-metrics.svg" alt="Métricas do GitHub" width="95%" />
+  <img src="https://raw.githubusercontent.com/savass33/savass33/metrics/github-metrics.svg" alt="Métricas do GitHub" />
 </div>
 
 <div align="center">

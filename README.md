@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=180&section=header&text=Savas%20Neto&fontSize=60&fontColor=c0caf5&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20%7C%20AI%20Engineering%20%7C%20Hiperautomação&descAlignY=55&descSize=18" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=180&section=header&text=Savas%20Neto&fontSize=60&fontColor=c0caf5&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20%7C%20RPA%20%7C%20AI%20Engineering&descAlignY=55&descSize=18" alt="banner" />
 </div>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack+%26+IA;React+%7C+Go+%7C+Python;Spec-Driven+Development;RPA+%26+Hiperautoma%C3%A7%C3%A3o;Machine+Learning+Engineering" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Desenvolvedor+RPA;Estudante+de+AI+Engineering;React+%7C+Go+%7C+Python;Spec-Driven+Development" alt="Typing SVG" />
   </a>
 </p>
 
@@ -25,7 +25,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Desenvolvedor **Full Stack & IA** focado na interseção entre **Arquitetura de Sistemas, Hiperautomação e Inteligência Artificial**. Experiência prática na construção de plataformas com IA integrada (*Spec-Driven Development*), automação de processos corporativos (RPA) e otimização de modelos de Machine Learning.
+Desenvolvedor **Full Stack** e **RPA**, estudante de **AI Engineering**. Atuo na interseção entre **Arquitetura de Sistemas, Hiperautomação e Inteligência Artificial**: construção de plataformas com IA integrada (*Spec-Driven Development*), automação de processos corporativos (RPA) e otimização de modelos de Machine Learning.
 
 - 🚀 **Atualmente em rotina dupla:**
   - **Desenvolvedor de Software Júnior @ ChefPro** — plataformas integradas à IA, *Spec-Driven Development*, orquestração de interfaces com **React** e integração de agentes de IA.

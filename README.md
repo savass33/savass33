@@ -28,7 +28,7 @@
 Desenvolvedor **Full Stack** e **RPA**, estudante de **AI Engineering**. Atuo na interseção entre **Arquitetura de Sistemas, Hiperautomação e Inteligência Artificial**: construção de plataformas com IA integrada (*Spec-Driven Development*), automação de processos corporativos (RPA) e otimização de modelos de Machine Learning.
 
 - 🚀 **Atualmente em rotina dupla:**
-  - **Desenvolvedor de Software Júnior @ ChefPro** — plataformas integradas à IA, *Spec-Driven Development*, orquestração de interfaces com **React** e integração de agentes de IA.
+  - **Desenvolvedor de Software Júnior @ Verboo** — plataformas integradas à IA, *Spec-Driven Development* e integração de agentes de IA.
   - **Estagiário de Hiperautomação e RPA @ Grupo 3corações** — fluxos lógicos e integração de sistemas corporativos com **Power Automate** e **UiPath**, mapeamento de regras de negócio em larga escala.
 - 🤖 **Passagens anteriores:** desenvolvimento de assistentes virtuais com IA na **Verboo** (React no front, **Go/Echo** no back) e gestão de serviços de TI no **Grupo Telles**.
 - 🔬 **Pesquisa:** Iniciação Científica no **Synapse Lab (UNIFOR)** — P&D em segurança física de UAVs (drones).
